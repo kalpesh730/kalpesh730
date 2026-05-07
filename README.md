@@ -16,7 +16,7 @@ I'm an **AI & Data Science Engineering Student** based in Bengaluru, specializin
 * **Concepts:** REST APIs, Prompt Engineering, CI/CD, Agile Workflows
 
 ### ⚡ GitHub Stats
-![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpesh730&show_icons=true&theme=radical)
+![Kalpesh's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kalpesh730&theme=radical&hide_border=true)
 
 ### 📫 Let's Connect
 - **LinkedIn:** [Insert your LinkedIn link here]
