@@ -2,7 +2,7 @@
 
 I'm an **AI & Data Science Engineering Student** based in Bengaluru, specializing in building intelligent full-stack applications. I bridge the gap between machine learning workflows and scalable web architecture.
 
-### 🚀 What I'm currently working on
+###  What I'm currently working on
 - 💻 Building **DevVault**, a MERN-stack daily practice ecosystem and developer command center.
 - 🤖 Developing AI-driven tools, including browser extensions and autonomous agents.
 - 🏆 Scaling my recognized applications like **SkillGrid** and **SkillSync**.
